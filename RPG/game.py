@@ -1,4 +1,3 @@
-import random
 
 class Setup:
     print("Hello weclome to RPG! \n")
