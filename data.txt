@@ -1,5 +1,0 @@
-PlayerHealth: 100
-Attack Power: 10
-Gold: 20
-Potions: 1
-EnemyHealth: 100
